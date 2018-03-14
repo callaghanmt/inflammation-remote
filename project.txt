@@ -3,4 +3,5 @@ Jane is a Data Scientist and Samit is a statistician. We will need to determine 
 what in this project.
 
 We may need to bring a third person with Python or R programming skills on board.
-
+The third team member needs to be competent in both Python and R. They
+also need to be familiar with matplotlib and ggplot
