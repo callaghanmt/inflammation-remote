@@ -2,3 +2,5 @@ Some initial notes on the data analysis to identify how inflammation changes ove
 Jane is a Data Scientist and Samit is a statistician. We will need to determine who is resposnible for
 what in this project.
 
+We may need to bring a third person with Python or R programming skills on board.
+
